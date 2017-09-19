@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul1 Catalogue Movie</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+    <string name="title">Captain America: Civil War</string>
+    <string name="overview">Following the events of Age of Ultron, the collective governments of the world pass</string>
+    <string name="release_date">Wednesday, Apr 27, 2016</string>
+</resources>
